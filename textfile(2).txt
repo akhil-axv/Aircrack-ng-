@@ -1,0 +1,11 @@
+Debian, Ubuntu, Kali, and Mint
+sudo apt update
+sudo apt install aircrack-ng
+------------------------------------------------
+Fedora and Red Hat (RHEL)
+sudo dnf install aircrack-ng
+------------------------------------------------
+Arch Linux and Manjaro
+sudo pacman -S aircrack-ng
+------------------------------------------------
+
